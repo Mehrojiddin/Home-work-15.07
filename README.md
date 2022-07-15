@@ -7,5 +7,5 @@ Takes two strings as arguments and returns the number of times the first string 
 Example:
 "a" , "edabit"  = 1
 "b",	"big fat bubble" = 4
-### String Match
-The first way we use string match. When we use this method, we can find how many times used the first string in the second string.
+### String Match with string lenght
+The first way we use string match. When we use this method, we can find how many symbol the first string use in the second string. And string length can to find how many times this used.
