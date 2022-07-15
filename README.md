@@ -44,3 +44,23 @@ takes a number as an argument and returns the highest digit in that number.
 
 
 
+
+
+
+## Task 5
+5. Число Пи до N десятичных разрядов
+Для заданного числа n напишите программу, которая возвращает число PI с точностью до n знаков после запятой.
+
+5. Pi to N Decimal Places
+
+Given a number n, write a programm that returns PI to n decimal places.
+5  = 3.14159
+4  = 3.1416
+### I used here method string toFixed
+Thank you
+
+
+
+
+
+
