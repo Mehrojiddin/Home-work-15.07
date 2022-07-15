@@ -39,12 +39,8 @@ takes a number as an argument. Add up all the numbers from 1 to the number you p
 takes a number as an argument and returns the highest digit in that number.
 379 = 9
 37 = 7
-
-
-
-
-
-
+### The forth task i did not finish
+look at it yourself
 
 
 ## Task 5

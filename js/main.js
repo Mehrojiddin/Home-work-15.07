@@ -52,21 +52,21 @@
 
 //Task 4
 
-// let num = +prompt("Pls Enter your number")
-
-
+let number = +prompt("Enter your number");
+let res = (""+number).split("")
+console.log(res);
 
 
 
 
 //task 5
 
-let n1 = 3.141592653589793238462643
-console.log(n1.toFixed(5))
+// let n1 = 3.141592653589793238462643
+// console.log(n1.toFixed(5))
 
 
-let n = 3.141592653589793238462643
-console.log(n.toFixed(4))
+// let n = 3.141592653589793238462643
+// console.log(n.toFixed(4))
     
 
 
